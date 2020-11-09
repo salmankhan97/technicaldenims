@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{}
+body{
+	font-family: 'Montserrat', sans-serif;
+	scroll-behavior: smooth;
+}
+img{
+	max-width: 100%;
+}
+.navbar-brand{
+	width: 100px;
+}
+h1{}
+h2{}
+h3{}
+h4{}
+h5{}
+h6{}
+p{
+    font-size: 20px;
+    font-weight: 400;
+}
+span{}
+.hr{}
+hr{/* opacity: 1.0 !important; */}
+section{}
+div{}
+header{
+    background: #ffffff57;
+}
+.banner{
+    background-image: url(../images/1bn.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin-top: 80px;
+    background-position: top;
+    padding: 120px 0px;
+}
+.box1{
+    background: #ffffff82;
+    padding: 50px 50px !important;
+}
+.banner h2{
+    font-weight: 700;
+}
+.banner p{
+    font-weight: 500;
+    font-size: 18px !important;
+}
+.banner h1{}
+.banner button{}
+.tabs{
+    padding: 10px 0px;
+}
+.tabs div{}
+.tabs div div{
+    padding-bottom: 10px;
+}
+
+.tabs img{
+    border-radius: 6px;
+}
+.tabs span{
+    padding: 10px 0px;
+    display: inline-block;
+    opacity: 0.9;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+.tabs hr{
+    margin: auto;
+    width: 70px;
+    opacity: 1.0 !important;
+    color: red;
+}
+.tabs p{
+    padding: 10px;
+}
+
+.para{
+    padding: 50px 0px;
+}
+.para hr{
+    opacity: 1.0;
+}
+.para p{
+}
+.bg1{
+	background: url(../images/Untitled-6.png);
+	background-position: center;
+	background-size: cover;
+}
+
+.banner2{
+    padding: 20px 0px;
+}
+.features{}
+.features h1{
+    font-size: 50px;
+    padding: 20px 0px;
+}
+.features h5{
+    padding: 5px 0px;
+}
+.features h5 i{}
+
+.para2{
+    padding: 10px 0px;
+}
+.para2 hr{
+    opacity: 1;
+}
+.para2 .featimg{
+    padding: 10px 0px;
+}
+.para2 img{}
+.para2 p{
+    padding: 10px 0px;
+}
+
+footer{
+    padding: 10px 0px;
+}
+footer hr{
+    height: 2px !important;
+    opacity: 1;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer div div{}
+footer span{}
+footer h2{}
+footer p{}
+footer button{}
+
+.cpy{
+    padding-top: 20px;
+    font-weight: 600;
+    opacity: 0.9;
+    font-size: 14px;
+}
+

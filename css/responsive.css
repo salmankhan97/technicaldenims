@@ -1,0 +1,19 @@
+@media (max-width: 1199px)
+{
+
+}
+
+@media (max-width: 991px)
+{
+	.bg1{
+		display: none;
+	}
+	.banner2 {
+	    background-image: url(../images/Untitled-6.png);
+	    background-color: #ffffff61;
+	    background-blend-mode: overlay;
+	    background-repeat: no-repeat;
+	    background-size: cover;
+	    background-position: center;
+	}
+}
