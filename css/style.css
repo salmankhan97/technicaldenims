@@ -25,6 +25,10 @@ span{}
 hr{/* opacity: 1.0 !important; */}
 section{}
 div{}
+.navbar{
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+}
 nav div{
     background: #ffffff;
     padding: 5px 0px;
