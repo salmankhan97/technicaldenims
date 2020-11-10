@@ -26,12 +26,12 @@ hr{/* opacity: 1.0 !important; */}
 section{}
 div{}
 .navbar{
-	padding-top: 0 !important;
-	padding-bottom: 0 !important;
+	/*padding-top: 0 !important;
+	padding-bottom: 0 !important;*/
+    background: #ffffff;
 }
 nav div{
-    background: #ffffff;
-    padding: 5px 0px;
+   /* padding: 5px 0px;*/
 }
 .banner{
     background-image: url(../images/1bn.png);
