@@ -27,6 +27,7 @@ section{}
 div{}
 nav div{
     background: #ffffff;
+    padding: 5px 0px;
 }
 .banner{
     background-image: url(../images/1bn.png);
