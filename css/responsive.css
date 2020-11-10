@@ -17,9 +17,8 @@
 	    background-position: center;
 	}
 }
-@media (max-width: 500px)
+@media (max-width: 575px)
 {
 	.h5, h5{
 		font-size: 1.10rem !important;
 	}
-}

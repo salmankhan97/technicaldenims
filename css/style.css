@@ -39,8 +39,9 @@ nav div{
     background-attachment: fixed;
     background-size: cover;
     margin-top: 50px;
-    background-position: top;
+    background-position: top left;
     padding: 150px 0px;
+    min-height: 95vh;
 }
 .box1{
     background: #ffffff82;
@@ -95,7 +96,7 @@ nav div{
 }
 .bg1{
 	background: url(../images/Untitled-6.png);
-	background-position: center;
+	background-position: bottom;
 	background-size: cover;
 }
 
