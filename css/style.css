@@ -38,7 +38,7 @@ nav div{
    /* padding: 5px 0px;*/
 }
 .banner{
-    background-image: url(../images/1bn.png);
+    background-image: url(../images/1bn.webp);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -100,7 +100,7 @@ nav div{
 .para p{
 }
 .bg1{
-	background: url(../images/Untitled-6.png);
+	background: url(../images/Untitled-6.webp);
 	background-position: bottom;
 	background-size: cover;
 }
